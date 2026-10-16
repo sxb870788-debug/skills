@@ -1,0 +1,22 @@
+{
+  "checks": [
+    {
+      "language": "zh",
+      "metadata": "passed",
+      "six_sections": "passed",
+      "relative_references": "passed",
+      "production_and_acceptance_sections": "unchanged",
+      "behavioral_validation": "manual workflow review only; full execution pending"
+    },
+    {
+      "language": "en",
+      "metadata": "passed",
+      "six_sections": "passed",
+      "relative_references": "passed",
+      "production_and_acceptance_sections": "unchanged",
+      "behavioral_validation": "manual workflow review only; full execution pending"
+    }
+  ],
+  "official_validator": "Not executed successfully: bundled Python lacks PyYAML. Scoped metadata/reference/preservation checks performed with Node.js instead.",
+  "scope": "Static checks only; no claims of poster execution, cost measurement or classmate trials."
+}
